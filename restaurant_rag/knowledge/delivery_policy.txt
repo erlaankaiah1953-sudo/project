@@ -1,0 +1,7 @@
+Restaurant: Tasty Bites
+
+Standard delivery time is 30 to 45 minutes.
+Minimum order amount is Rs. 150.
+Free delivery is available for orders above Rs. 500.
+Delivery charges for other orders are Rs. 40.
+Delivery times may increase during peak hours.

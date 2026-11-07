@@ -1,0 +1,4 @@
+Tasty Bites serves vegetarian and non-vegetarian food.
+The restaurant accepts online orders.
+Customers can contact support for order-related problems.
+The restaurant provides takeaway and home delivery.

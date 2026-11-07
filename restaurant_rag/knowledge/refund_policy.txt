@@ -1,0 +1,5 @@
+Customers can request a refund for missing items.
+Customers should report incorrect orders as soon as possible.
+Customers should provide their order ID when contacting support.
+Refund approval depends on order verification.
+Refund processing may take 5 to 7 business days after approval.

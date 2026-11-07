@@ -1,0 +1,16 @@
+Restaurant: Tasty Bites
+
+Vegetarian Items:
+Veg Biryani - Rs. 180
+Paneer Butter Masala - Rs. 220
+Masala Dosa - Rs. 100
+Veg Burger - Rs. 120
+
+Non-Vegetarian Items:
+Chicken Biryani - Rs. 250
+Chicken Burger - Rs. 160
+Chicken Fried Rice - Rs. 190
+
+Drinks:
+Fresh Lime Juice - Rs. 60
+Mango Juice - Rs. 80
